@@ -8,6 +8,6 @@ void factorial(){
 
 int main(){
 
-    cout << retun;
+    cout << return;
 
 }
